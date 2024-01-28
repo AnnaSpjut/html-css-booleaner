@@ -1,0 +1,73 @@
+
+
+/*header */
+header{
+  background-image: url(../img/pattern.png);
+  background-color: rgb(68, 136, 213);
+  background-size: 25%;
+}
+
+header .logo{
+  width: 200px;
+  padding-left: 10px;
+  padding-top: 20px;
+}
+
+h1{
+  padding-top: 20px;
+  font-size: 40px;
+}
+
+.aut,.date{
+  color: grey;
+  padding-bottom: 5px;
+}
+
+.aut span{
+  color: rgb(68, 136, 213);
+}
+
+.date{
+  font-size: 14px;
+}
+
+.credits{
+  color: black;
+  font-size: 14px;
+}
+
+p{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.yellow{
+  background-color: yellow;
+}
+
+ul{
+  padding-bottom: 10px;
+}
+
+table{
+  border-collapse: collapse;
+  padding-bottom: 20px;
+
+}
+
+table thead{
+  background-color: rgb(68, 136, 213);
+  color: white;
+}
+
+table thead tr{
+  text-align: left;
+}
+
+table .table-head{
+  width: 50%;
+}
+
+table .odd{
+  background-color: lightblue;
+}
